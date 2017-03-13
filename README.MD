@@ -75,17 +75,18 @@ $ npm install o2-payment-stripe --save
 
 ## Reference
 
-- "ウェブでファイルをアップロードする",
-<https://firebase.google.com/docs/storage/web/upload-files?hl=ja>
+- "Stripe docs",
+<https://stripe.com/docs>
 
-- "Angular2 / Ionic2 / How to upload and get file or image from firebase storage" ,2016/11/16,by Muhammet Bakan, 
-<http://www.muhammetbakan.com/angular2-ionic2-how-to-upload-and-get-image-from-firebase-storage/>
+- "The Stripe Webhook Event Cheatsheet" ,by Pete Keen, 
+<https://www.masteringmodernpayments.com/stripe-webhook-event-cheatsheet>
 
-- "Firebase storage and angularfire2 - Stack Overflow",
-<http://stackoverflow.com/questions/38593188/firebase-storage-and-angularfire2>
+- "Using Stripe with Angular 2", by Minko Gechev
+<http://blog.mgechev.com/2016/07/05/using-stripe-payment-with-angular-2/>
 
-- "feat(storage): upload, read, and process* files #213",2016/6/8,
-<https://github.com/angular/angularfire2/issues/213>
+- "Taking Stripe Payments with Angular 2 and ASP.NET Core",2017/1/12, by Carl Rippon
+<http://www.carlrippon.com/?p=645>
+
 
 
 ## Change Log
