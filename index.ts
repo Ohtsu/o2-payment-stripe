@@ -23,10 +23,10 @@ export * from './src/stripe-auth.service';
     O2PaymentStripeComponent,
   ]
 })
-export class SampleModule {
+export class O2PaymentStripeModule {
   static forRoot(): ModuleWithProviders {
     return {
-      ngModule: SampleModule,
+      ngModule: O2PaymentStripeModule,
       providers: [StripeConsService,StripeAuthService]
     };
   }
